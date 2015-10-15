@@ -1,0 +1,125 @@
+if ( inside_temp <= 25.0723953247 ) {
+if ( outside_humidity <= 55.1003417969 ) {
+if ( inside_humidity <= 49.8871612549 ) {
+if ( inside_temp <= 24.445306778 ) {
+if ( inside_humidity <= 49.4538574219 ) {
+return [[   516.     47.     78.  17700.]]
+} else {
+return [[  425.    12.   183.  3705.]]
+}
+} else {
+if ( baby_temp <= 59.8511619568 ) {
+return [[  148.     4.    27.  1393.]]
+} else {
+return [[ 1541.    58.   240.  3519.]]
+}
+}
+} else {
+if ( outside_humidity <= 53.9312095642 ) {
+if ( inside_humidity <= 51.2498588562 ) {
+return [[  1529.    758.    129.  10900.]]
+} else {
+return [[  705.  3274.  1198.  5742.]]
+}
+} else {
+if ( baby_activity <= 29.4702453613 ) {
+return [[ 2303.   149.    42.   648.]]
+} else {
+return [[ 1996.   324.  5266.  7526.]]
+}
+}
+}
+} else {
+if ( baby_temp <= 59.6203231812 ) {
+if ( inside_humidity <= 48.6334114075 ) {
+if ( baby_activity <= 29.0201625824 ) {
+return [[  175.     5.    40.  3450.]]
+} else {
+return [[  143.     3.  1097.    12.]]
+}
+} else {
+if ( inside_humidity <= 52.5140457153 ) {
+return [[ 25752.    105.   1077.   2144.]]
+} else {
+return [[   83.  1553.     8.   556.]]
+}
+}
+} else {
+if ( inside_humidity <= 50.4763031006 ) {
+if ( baby_activity <= 29.5860919952 ) {
+return [[  249.     6.   554.  1417.]]
+} else {
+return [[  3297.     73.  31125.   1126.]]
+}
+} else {
+if ( inside_temp <= 24.4212417603 ) {
+return [[  535.   370.   148.  3416.]]
+} else {
+return [[  129.  1888.   182.   940.]]
+}
+}
+}
+}
+} else {
+if ( inside_humidity <= 49.8017311096 ) {
+if ( baby_temp <= 60.752910614 ) {
+if ( inside_temp <= 26.5531387329 ) {
+if ( outside_humidity <= 55.0518722534 ) {
+return [[ 4541.   389.  1959.  1396.]]
+} else {
+return [[  2274.    230.  14100.    534.]]
+}
+} else {
+if ( baby_temp <= 60.293762207 ) {
+return [[   58.  2547.   200.    12.]]
+} else {
+return [[  834.  3173.  6048.    28.]]
+}
+}
+} else {
+if ( inside_humidity <= 48.5073318481 ) {
+if ( inside_temp <= 25.7894821167 ) {
+return [[  28.   15.    5.  142.]]
+} else {
+return [[ 8288.  1031.   610.   115.]]
+}
+} else {
+if ( inside_temp <= 27.670173645 ) {
+return [[ 6331.  5048.   289.   832.]]
+} else {
+return [[ 787.   72.  930.    6.]]
+}
+}
+}
+} else {
+if ( baby_activity <= 28.3448314667 ) {
+if ( baby_temp <= 59.3869400024 ) {
+if ( inside_humidity <= 50.7188873291 ) {
+return [[  30.  105.    2.   93.]]
+} else {
+return [[ 6832.  1249.    17.    66.]]
+}
+} else {
+if ( outside_humidity <= 54.6488113403 ) {
+return [[   45.    67.    10.  1087.]]
+} else {
+return [[   9.  132.    0.   17.]]
+}
+}
+} else {
+if ( inside_temp <= 27.2594833374 ) {
+if ( outside_humidity <= 53.4232254028 ) {
+return [[ 2195.  6283.   170.  3613.]]
+} else {
+return [[  2972.  45307.   6545.   2888.]]
+}
+} else {
+if ( baby_temp <= 60.3134422302 ) {
+return [[   0.  518.   21.   13.]]
+} else {
+return [[  229.   157.  2715.    18.]]
+}
+}
+}
+}
+}

@@ -1,0 +1,857 @@
+if ( outside_humidity <= 60.7431678772 ) {
+if ( intensity_illum <= 49.8926773071 ) {
+if ( inside_humidity <= 55.6392631531 ) {
+if ( inside_temp <= 27.8252716064 ) {
+// return [[  0.   0.   0.  10.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( inside_humidity <= 53.9906578064 ) {
+if ( baby_temp <= 25.9117774963 ) {
+if ( inside_humidity <= 53.8209190369 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[ 20.   0.   0.   0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( inside_temp <= 28.6027030945 ) {
+if ( baby_temp <= 26.6225757599 ) {
+if ( baby_activity <= 81.5334320068 ) {
+if ( inside_temp <= 28.2152137756 ) {
+if ( inside_temp <= 28.1811981201 ) {
+if ( outside_temp <= 30.6920700073 ) {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( outside_humidity <= 58.9195632935 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( inside_humidity <= 54.0682373047 ) {
+if ( outside_humidity <= 60.1401062012 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+// return [[  0.   0.  14.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+}
+} else {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  3.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+if ( baby_temp <= 26.7018146515 ) {
+if ( baby_temp <= 24.6171340942 ) {
+if ( intensity_illum <= 48.8859329224 ) {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+if ( intensity_illum <= 49.4697570801 ) {
+if ( outside_temp <= 30.3564071655 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( baby_activity <= 78.0590362549 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( baby_temp <= 24.9101753235 ) {
+if ( outside_humidity <= 60.5672454834 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( baby_temp <= 26.4638309479 ) {
+// return [[ 25.   0.   0.   0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+if ( baby_temp <= 26.4919242859 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 4.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+}
+}
+}
+} else {
+if ( outside_humidity <= 59.4733009338 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  3.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( intensity_illum <= 49.3131523132 ) {
+if ( inside_humidity <= 55.2929916382 ) {
+// return [[ 0.  6.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( intensity_illum <= 47.1851806641 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( outside_humidity <= 58.6954727173 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+}
+} else {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+}
+}
+}
+} else {
+if ( outside_temp <= 28.2110939026 ) {
+// return [[ 3.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+if ( inside_temp <= 30.5805244446 ) {
+if ( outside_humidity <= 58.8148612976 ) {
+if ( outside_humidity <= 58.7938537598 ) {
+if ( outside_temp <= 29.1492080688 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+if ( inside_temp <= 27.9977607727 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( outside_humidity <= 57.9576950073 ) {
+// return [[  0.   0.  35.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( baby_activity <= 81.7214813232 ) {
+if ( inside_temp <= 29.1849040985 ) {
+if ( outside_humidity <= 58.2563018799 ) {
+if ( outside_humidity <= 58.1272659302 ) {
+// return [[ 0.  0.  9.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( outside_temp <= 30.3994216919 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  3.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+// return [[  0.   0.  19.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+if ( outside_temp <= 32.7975463867 ) {
+// return [[ 0.  2.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+}
+} else {
+if ( intensity_illum <= 49.4305763245 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+} else {
+if ( baby_activity <= 79.3065338135 ) {
+if ( baby_activity <= 79.2620849609 ) {
+// return [[  0.   0.  13.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+// return [[  0.   0.  56.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( inside_temp <= 25.8482837677 ) {
+if ( inside_humidity <= 55.0935325623 ) {
+if ( intensity_illum <= 52.382484436 ) {
+// return [[ 0.  0.  0.  9.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( outside_temp <= 30.3855648041 ) {
+// return [[ 0.  4.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+} else {
+if ( baby_temp <= 26.2242126465 ) {
+if ( intensity_illum <= 53.5364151001 ) {
+if ( inside_humidity <= 55.3293762207 ) {
+if ( baby_temp <= 24.4585494995 ) {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( intensity_illum <= 50.3310089111 ) {
+if ( baby_activity <= 79.8456115723 ) {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 6.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[ 78.   0.   0.   0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+} else {
+if ( inside_humidity <= 57.4119415283 ) {
+// return [[ 0.  2.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 4.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 0.  4.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+if ( outside_humidity <= 58.9192352295 ) {
+if ( inside_temp <= 28.300491333 ) {
+if ( inside_humidity <= 57.0909385681 ) {
+if ( inside_humidity <= 54.5730209351 ) {
+if ( outside_humidity <= 58.6505737305 ) {
+// return [[ 0.  4.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( outside_humidity <= 58.7920150757 ) {
+// return [[ 3.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+if ( baby_activity <= 81.3893585205 ) {
+// return [[  0.  75.   0.   0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( baby_activity <= 81.4375457764 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  4.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( baby_activity <= 80.8470458984 ) {
+if ( outside_humidity <= 58.206703186 ) {
+if ( intensity_illum <= 50.9028091431 ) {
+if ( intensity_illum <= 50.8089370728 ) {
+// return [[ 0.  3.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+// return [[  0.  14.   0.   0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+if ( outside_temp <= 32.3180351257 ) {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 0.  0.  6.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+} else {
+if ( outside_humidity <= 58.3831253052 ) {
+if ( inside_humidity <= 57.9983062744 ) {
+// return [[  0.   0.  12.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( inside_temp <= 28.3629932404 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+if ( intensity_illum <= 50.7355003357 ) {
+if ( outside_temp <= 31.86485672 ) {
+if ( inside_humidity <= 54.9107589722 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  3.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( outside_temp <= 30.1145820618 ) {
+if ( inside_temp <= 26.8043518066 ) {
+if ( baby_temp <= 24.8611907959 ) {
+if ( baby_activity <= 79.2148666382 ) {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( baby_activity <= 79.0174026489 ) {
+if ( intensity_illum <= 51.8497200012 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[  0.   0.   0.  20.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+} else {
+if ( inside_humidity <= 52.8975982666 ) {
+if ( outside_humidity <= 60.1159439087 ) {
+// return [[ 0.  2.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( inside_humidity <= 53.7505874634 ) {
+if ( baby_temp <= 26.3979816437 ) {
+if ( intensity_illum <= 51.1173629761 ) {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[ 7.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( baby_temp <= 24.6590538025 ) {
+if ( outside_humidity <= 59.9494552612 ) {
+if ( intensity_illum <= 51.5967712402 ) {
+if ( outside_humidity <= 59.1114959717 ) {
+// return [[ 0.  0.  4.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( intensity_illum <= 49.9760017395 ) {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( intensity_illum <= 50.4546585083 ) {
+// return [[ 0.  5.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( inside_temp <= 26.3594398499 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+}
+}
+} else {
+// return [[ 3.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( inside_temp <= 28.1109886169 ) {
+// return [[ 0.  0.  0.  8.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+if ( outside_humidity <= 58.9425392151 ) {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( intensity_illum <= 50.0592422485 ) {
+if ( intensity_illum <= 49.9829368591 ) {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 3.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( outside_humidity <= 60.7274169922 ) {
+if ( baby_temp <= 26.2038288116 ) {
+if ( inside_humidity <= 54.350402832 ) {
+if ( outside_humidity <= 60.2392272949 ) {
+if ( baby_temp <= 25.8207855225 ) {
+// return [[ 0.  0.  0.  4.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( inside_temp <= 28.0810966492 ) {
+if ( inside_humidity <= 54.1784210205 ) {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+} else {
+if ( outside_humidity <= 60.6616668701 ) {
+// return [[ 0.  8.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( outside_temp <= 31.9467830658 ) {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( outside_temp <= 31.9936790466 ) {
+if ( outside_humidity <= 60.297744751 ) {
+if ( baby_temp <= 25.1382541656 ) {
+if ( baby_temp <= 25.1323127747 ) {
+// return [[ 0.  5.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+// return [[  0.  21.   0.   0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( inside_temp <= 28.3826026917 ) {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( intensity_illum <= 52.1408500671 ) {
+if ( baby_activity <= 81.3023986816 ) {
+// return [[  0.  24.   0.   0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+} else {
+if ( intensity_illum <= 51.1782989502 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+}
+}
+}
+}
+}
+}
+} else {
+if ( inside_temp <= 28.0950737 ) {
+if ( inside_temp <= 25.8872737885 ) {
+if ( intensity_illum <= 51.465927124 ) {
+if ( baby_temp <= 22.9936161041 ) {
+if ( inside_humidity <= 54.8118476868 ) {
+if ( intensity_illum <= 48.2918243408 ) {
+if ( inside_humidity <= 53.6110153198 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+// return [[ 5.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+} else {
+if ( outside_humidity <= 61.3374252319 ) {
+if ( baby_temp <= 22.8060398102 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  0.  0.  9.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+} else {
+if ( inside_humidity <= 55.6421737671 ) {
+if ( baby_activity <= 81.1221618652 ) {
+if ( baby_temp <= 24.7656898499 ) {
+if ( baby_activity <= 78.7169799805 ) {
+if ( outside_temp <= 27.2758369446 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( outside_humidity <= 61.655090332 ) {
+// return [[ 13.   0.   0.   0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+if ( inside_humidity <= 54.5123329163 ) {
+// return [[ 5.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+}
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( outside_humidity <= 61.1929283142 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+} else {
+if ( baby_temp <= 22.601108551 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[  0.   0.   0.  13.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+} else {
+if ( inside_humidity <= 54.7127532959 ) {
+if ( baby_temp <= 25.2139816284 ) {
+if ( inside_temp <= 28.0099945068 ) {
+if ( baby_activity <= 78.242477417 ) {
+if ( baby_activity <= 77.8734588623 ) {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( baby_activity <= 78.0604400635 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+} else {
+if ( intensity_illum <= 47.0936965942 ) {
+if ( intensity_illum <= 46.950088501 ) {
+// return [[ 0.  0.  0.  6.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  2.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+if ( outside_temp <= 33.0834197998 ) {
+if ( inside_temp <= 25.9488945007 ) {
+if ( intensity_illum <= 49.5746192932 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  4.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( inside_humidity <= 54.4274368286 ) {
+// return [[  0.   0.   0.  83.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( inside_humidity <= 54.447353363 ) {
+// return [[ 1.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[  0.   0.   0.  15.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( outside_humidity <= 61.9789733887 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+}
+}
+}
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+if ( intensity_illum <= 50.3171310425 ) {
+if ( outside_temp <= 30.2121162415 ) {
+// return [[  0.   0.   0.  10.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( baby_temp <= 25.6294059753 ) {
+// return [[ 2.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+} else {
+if ( inside_temp <= 26.3166313171 ) {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  9.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+} else {
+if ( baby_temp <= 22.7214279175 ) {
+// return [[  0.   0.   0.  17.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( intensity_illum <= 48.9496078491 ) {
+if ( outside_temp <= 29.1594276428 ) {
+if ( baby_temp <= 23.1575431824 ) {
+// return [[ 0.  0.  3.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+// return [[  0.   0.  20.   0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+if ( baby_activity <= 81.2188339233 ) {
+// return [[ 0.  0.  0.  7.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+}
+}
+}
+}
+} else {
+if ( intensity_illum <= 49.6388168335 ) {
+if ( inside_temp <= 29.0655021667 ) {
+if ( baby_temp <= 23.9253368378 ) {
+if ( baby_temp <= 23.2503929138 ) {
+// return [[ 0.  0.  0.  2.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  7.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+if ( intensity_illum <= 48.0768203735 ) {
+// return [[ 0.  0.  0.  4.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( inside_humidity <= 54.1383399963 ) {
+if ( intensity_illum <= 49.5245895386 ) {
+// return [[ 11.   0.   0.   0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+if ( outside_temp <= 31.0473823547 ) {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+} else {
+if ( baby_activity <= 80.1925735474 ) {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+// return [[ 0.  1.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
+}
+}
+} else {
+if ( intensity_illum <= 48.9551315308 ) {
+if ( outside_humidity <= 63.0887145996 ) {
+if ( baby_temp <= 22.4186248779 ) {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+} else {
+if ( outside_humidity <= 61.020690918 ) {
+if ( inside_humidity <= 54.74168396 ) {
+// return [[ 3.  0.  0.  0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+} else {
+// return [[ 0.  0.  1.  0.]]	// return data distribution
+return 2	// return assigned classes categorical index
+}
+} else {
+// return [[ 23.   0.   0.   0.]]	// return data distribution
+return 0	// return assigned classes categorical index
+}
+}
+} else {
+// return [[ 0.  0.  0.  1.]]	// return data distribution
+return 3	// return assigned classes categorical index
+}
+} else {
+// return [[ 0.  2.  0.  0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+} else {
+// return [[  0.  20.   0.   0.]]	// return data distribution
+return 1	// return assigned classes categorical index
+}
+}
+}
